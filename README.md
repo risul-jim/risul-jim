@@ -28,20 +28,20 @@ I am fluent in professional English and proficient in MS Office, with strong ski
 - **Cumulative Sales and Moving Averages**
 
 ### Programming Languages
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
-- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Java**
-- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) **C**
-- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) **C++**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ### Tools
-- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**
-- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel**
-- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) **SQL**
-- ![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat&logo=artificial-intelligence&logoColor=white) **AI Tools**
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+- ![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat&logo=artificial-intelligence&logoColor=white)
 
 ### Web Technologies
-- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML**
-- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS**
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### Soft Skills
 - ⏳ **Time Management**
