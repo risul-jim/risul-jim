@@ -1,5 +1,8 @@
 # Hi, I'm Risul Islam Jim! 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-risul--islam--jim-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risul-islam-jim) 
+[![Email](https://img.shields.io/badge/Email-risul15--3675%40diu.edu.bd-red?style=flat&logo=gmail&logoColor=white)](mailto:risul15-3675@diu.edu.bd)
+
 ## About Me
 Passionate about AI in health informatics, I specialize in deep learning, machine learning, neural networks, hyperparameter tuning, and image processing. My background in Computer Science and Engineering has equipped me with the technical expertise to tackle complex problems and innovate within the field of medical technology. I aim to revolutionize healthcare through data science and analytics, striving to improve countless lives.
 
@@ -8,7 +11,7 @@ I am fluent in professional English and proficient in MS Office, with strong ski
 ## Skills
 
 ### Data Visualization and Analysis
-- **Power BI**
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**
 - **Data Connectors**
 - **Power Query Editor**
 - **Appending and Merging Queries**
@@ -25,20 +28,20 @@ I am fluent in professional English and proficient in MS Office, with strong ski
 - **Cumulative Sales and Moving Averages**
 
 ### Programming Languages
-- **Python**
-- **Java**
-- **C**
-- **C++**
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) **Python**
+- ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) **Java**
+- ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white) **C**
+- ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) **C++**
 
 ### Tools
-- **Power BI**
-- **Excel**
-- **SQL**
-- **AI Tools**
+- ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**
+- ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) **Excel**
+- ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white) **SQL**
+- ![AI Tools](https://img.shields.io/badge/AI_Tools-000000?style=flat&logo=artificial-intelligence&logoColor=white) **AI Tools**
 
 ### Web Technologies
-- **HTML**
-- **CSS**
+- ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) **HTML**
+- ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) **CSS**
 
 ### Soft Skills
 - ⏳ **Time Management**
@@ -77,15 +80,15 @@ I am fluent in professional English and proficient in MS Office, with strong ski
 - **Hindi:** Basic Speaking
 
 ## Hobbies
-- **Music**
-- **Gardening**
-- **Reading Books**
+- 🎶 **Music**
+- 🌱 **Gardening**
+- 📚 **Reading Books**
 
 ## Contact Me
-- **Location:** Ashulia, Savar, Dhaka, 1341
-- **Phone:** +8801634498686
-- **Email:** [risulislam064@gmail.com](mailto:risulislam064@gmail.com)
-- **LinkedIn:** [www.linkedin.com/in/risul-islam-jim](https://www.linkedin.com/in/risul-islam-jim)
+- 📍 **Location:** Ashulia, Savar, Dhaka, 1341
+- 📞 **Phone:** +8801634498686
+- 📧 **Email:** [risulislam064@gmail.com](mailto:risulislam064@gmail.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/risul-islam-jim](https://www.linkedin.com/in/risul-islam-jim)
 
 ---
 
